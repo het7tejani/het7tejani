@@ -1,6 +1,6 @@
 <p align="center">
-  <h1>Hi 👋, I'm Het Tejani</h1>
-  <h3>💻 Full Stack Web Developer | ⚛️ React Enthusiast | ☁️ Cloud Learner</h3>
+  <h1 align="center">Hi 👋, I'm Het Tejani</h1>
+  <h3 align="center">💻 Full Stack Web Developer | ⚛️ React Enthusiast | ☁️ Cloud Learner</h3>
 
 ---
 </p>
