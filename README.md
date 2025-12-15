@@ -1,4 +1,4 @@
-<p text_align="center">
+<p align="center">
   
 # Hi 👋, I'm Het Tejani
 
@@ -58,6 +58,3 @@ I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=het7tejani&show_icons=true&theme=vue&hide_border=true" alt="Het Tejani's GitHub Stats" />
-</p>
