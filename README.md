@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
 <img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
@@ -34,7 +34,7 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<p>
 I am a passionate Frontend Developer specializing in the **ReactJS** framework, dedicated to crafting modern, responsive, and high-performance user interfaces. I excel in component-based architecture, state management with Redux, and implementing sophisticated styling with Tailwind CSS. My goal is to deliver exceptional user experiences while maintaining code quality and scalability. I also leverage Next.js for server-side rendering and static site generation to optimize web application performance.
 </p>
 
