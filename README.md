@@ -39,14 +39,13 @@ I am a passionate Frontend Developer specializing in the **ReactJS** framework, 
 
 ---
 
+## 🌐 Connect with Me
+
 <p align="center">
     <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;   <a href="mailto:hettejani07@gmail.com">
+  </a>  &nbsp;&nbsp;&nbsp;   <a href="mailto:hettejani07@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;   <a href="https://instagram.com/het_tejani__" target="_blank">
+  </a>  &nbsp;&nbsp;&nbsp;   <a href="https://instagram.com/[Your_Instagram_Handle]" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/200px-Instagram_logo_2016.svg.png" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
+  </a></p>
