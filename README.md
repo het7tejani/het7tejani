@@ -1,4 +1,4 @@
-<p align="center">
+<p text_align="center">
   
 # Hi 👋, I'm Het Tejani
 
