@@ -1,11 +1,11 @@
 <p align="center">
-  <h1 align="center">Hi 👋, I'm Het Tejani</h1>
+  <h1 align="center">Hi , I'm Het Tejani</h1>
   <h3 align="center">⚛️ ReactJS Frontend Developer | 💻 UI/UX Focused | ☁️ Cloud Learner</h3>
 
 ---
 </p>
 
-## 🛠️ Tech Stack (Frontend Focused)
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
@@ -40,8 +39,6 @@ I am a passionate Frontend Developer specializing in the **ReactJS** framework, 
 </p>
 
 ---
-
-## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
