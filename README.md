@@ -1,15 +1,14 @@
 <p align="center">
-  
-# Hi 👋, I'm Het Tejani
-
-### 💻 Full Stack Web Developer | ⚛️ React Enthusiast | ☁️ Cloud Learner
+  <h1>Hi 👋, I'm Het Tejani</h1>
+  <h3>💻 Full Stack Web Developer | ⚛️ React Enthusiast | ☁️ Cloud Learner</h3>
 
 ---
 </p>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/>
@@ -55,6 +54,3 @@ I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engi
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile"/>
   </a>
 </p>
-
----
-
