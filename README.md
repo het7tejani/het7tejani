@@ -39,13 +39,13 @@ I am a passionate Frontend Developer specializing in the **ReactJS** framework, 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn Profile" height="40"/>
-  </a>
-  <a href="mailto:hettejani07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=transparent" alt="Gmail Contact" height="40"/>
-  </a>
-  <a href="https://instagram.com/[Your_Instagram_Handle]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=transparent" alt="Instagram Profile" height="40"/>
-  </a>
+  <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:hettejani07@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://instagram.com/het_tejani__" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/200px-Instagram_logo_2016.svg.png" alt="Instagram" width="50" height="50"/>
+  </a>
 </p>
