@@ -7,8 +7,9 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/><img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer-motion&logoColor=white" alt="Framer Motion Badge"/>
@@ -34,7 +35,7 @@
 
 ## 🚀 About Me
 
-<p>
+<p align="center">
 I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engineering in Computer Engineering. I focus on building dynamic, high-performance web applications using the MERN stack and modern front-end libraries like React. I am currently building scalable applications with Next.js and Node.js while learning AWS deployment.
 </p>
 
@@ -42,14 +43,14 @@ I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engi
 
 ## 🌐 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="mailto:hettejani07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact"/>
-  </a>
-  <a href="https://instagram.com/[Your_Instagram_Handle]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Profile"/>
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:hettejani07@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/[Your_Instagram_Handle]" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
 </p>
