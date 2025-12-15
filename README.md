@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<p>
 I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engineering in Computer Engineering. I focus on building dynamic, high-performance web applications using the MERN stack and modern front-end libraries like React. I am currently building scalable applications with Next.js and Node.js while learning AWS deployment.
 </p>
 
@@ -43,7 +43,7 @@ I am a passionate Full Stack Web Developer currently pursuing a Bachelor of Engi
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/het-tejani-1a45a1240/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
