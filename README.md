@@ -8,8 +8,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-    <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+  <img src="https://img.shields.io/badge/react-%2320237A.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/><img src="https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer-motion&logoColor=white" alt="Framer Motion Badge"/>
