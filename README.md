@@ -34,7 +34,7 @@
 ## 🚀 About Me
 
 <p>
-I am a passionate Frontend Developer specializing in the **ReactJS** framework, dedicated to crafting modern, responsive, and high-performance user interfaces. I excel in component-based architecture, state management with Redux, and implementing sophisticated styling with Tailwind CSS. My goal is to deliver exceptional user experiences while maintaining code quality and scalability. I also leverage Next.js for server-side rendering and static site generation to optimize web application performance.
+I am a passionate Frontend Developer specializing in the ReactJS framework, dedicated to crafting modern, responsive, and high-performance user interfaces. I excel in component-based architecture, state management with Redux, and implementing sophisticated styling with Tailwind CSS. My goal is to deliver exceptional user experiences while maintaining code quality and scalability. I also leverage Next.js for server-side rendering and static site generation to optimize web application performance.
 </p>
 
 ---
